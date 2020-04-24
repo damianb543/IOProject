@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Skapiec_projekt:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4d62012-043c-441a-9c99-4c6fe3c10312" name="Default Changelist" comment="Final version" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Skapiec_projekt$Skapiec_projekt.ic" NAME="Skapiec_projekt Coverage Results" MODIFIED="1575547320641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Skapiec_projekt" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1WiBkM1o6pWpSucvyk0BvrnBB6E" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="pull&#9;ACTION&#9;Vcs.UpdateProject&#10;ver&#9;ACTION&#9;ActivateVersionControlToolWindow" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="208" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="331" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575654848076" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JetBrains\Skapiec\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Skapiec_projekt" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Skapiec_GUI" />
+      <module name="Skapiec_projekt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Skapiec_GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4d62012-043c-441a-9c99-4c6fe3c10312" name="Default Changelist" comment="" />
+      <created>1574525076042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574525076042</updated>
+      <workItem from="1574525081323" duration="1318000" />
+      <workItem from="1574531705710" duration="1046000" />
+      <workItem from="1574597744587" duration="6730000" />
+      <workItem from="1574613933863" duration="3306000" />
+      <workItem from="1574629635285" duration="1792000" />
+      <workItem from="1574682885712" duration="11731000" />
+      <workItem from="1574790157723" duration="8853000" />
+      <workItem from="1574846837758" duration="1731000" />
+      <workItem from="1574848608294" duration="8349000" />
+      <workItem from="1574858065238" duration="2276000" />
+      <workItem from="1574862892251" duration="120000" />
+      <workItem from="1574863048952" duration="97000" />
+      <workItem from="1575034880650" duration="3353000" />
+      <workItem from="1575238546117" duration="3400000" />
+      <workItem from="1575270373314" duration="2010000" />
+      <workItem from="1575282674660" duration="17075000" />
+      <workItem from="1575299970415" duration="84000" />
+      <workItem from="1575302495872" duration="8705000" />
+      <workItem from="1575407505498" duration="1047000" />
+      <workItem from="1575450179345" duration="14970000" />
+      <workItem from="1575468007316" duration="4779000" />
+      <workItem from="1575475367829" duration="10419000" />
+      <workItem from="1575490903882" duration="5897000" />
+      <workItem from="1575538404927" duration="8904000" />
+      <workItem from="1575553369972" duration="2801000" />
+      <workItem from="1575558007456" duration="4798000" />
+      <workItem from="1575569335935" duration="4742000" />
+      <workItem from="1575577050139" duration="2217000" />
+      <workItem from="1575580527271" duration="99000" />
+      <workItem from="1575628530318" duration="2017000" />
+      <workItem from="1575632971102" duration="6309000" />
+      <workItem from="1575640074946" duration="5197000" />
+      <workItem from="1575646933534" duration="3634000" />
+      <workItem from="1575656704748" duration="2628000" />
+      <workItem from="1575659373317" duration="1754000" />
+    </task>
+    <task id="LOCAL-00001" summary="dupa 123&#10;test pierwszy commit">
+      <created>1575489271066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575489271066</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore">
+      <created>1575495769882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575495769882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1575496093214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575496093214</updated>
+    </task>
+    <task id="LOCAL-00004" summary="wszystko prawie działa XD">
+      <created>1575548520004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575548520004</updated>
+    </task>
+    <task id="LOCAL-00005" summary="wszystko prawie działa XD">
+      <created>1575548884970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575548884970</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nextbutton poprawione i linki">
+      <created>1575562794587</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575562794587</updated>
+    </task>
+    <task id="LOCAL-00007" summary="nextbutton poprawione i linki">
+      <created>1575577371142</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575577371142</updated>
+    </task>
+    <task id="LOCAL-00008" summary="nextbutton poprawione i linki">
+      <created>1575630147735</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575630147735</updated>
+    </task>
+    <task id="LOCAL-00009" summary="nextbutton poprawione i linki">
+      <created>1575634160891</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575634160891</updated>
+    </task>
+    <task id="LOCAL-00010" summary="nextbutton poprawione i linki">
+      <created>1575639191351</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575639191351</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ostateczna wersja bez komentarzy">
+      <created>1575644286288</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575644286288</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ostateczna wersja bez komentarzy">
+      <created>1575645234634</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575645234634</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ostateczna wersja bez komentarzy">
+      <created>1575647179729</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575647179729</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ostateczna wersja bez komentarzy">
+      <created>1575657762987</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575657762987</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Final version">
+      <created>1575659118298</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575659118298</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165553000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="dupa 123&#10;test pierwszy commit" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="wszystko prawie działa XD" />
+    <MESSAGE value="nextbutton poprawione i linki" />
+    <MESSAGE value="ostateczna wersja bez komentarzy" />
+    <MESSAGE value="Final version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final version" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Skapiec_projekt:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Skapiec_projekt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

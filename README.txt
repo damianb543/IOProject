@@ -1,4 +1,4 @@
-Dokumantacja znajduje się w folderze "Doc", aby ją otworzyć należy otworzyć "index.html".
+
 
 Aby uruchomić aplikację należy otworzyć "Skapiec_projekt.jar".
 Po lewej stronie interfejsu możemu ustawić ilość sztuk danego produktu, 
